@@ -5,6 +5,20 @@
 ## 문서 구성
 
 - [10개 문제 프로그램 설계](./10개_문제_프로그램_설계.md)
+- [문제별 코드 예시](./examples)
+
+## 코드 예시 구성
+
+- `examples/01_ai_gitgen`: AI Git 커밋/PR 생성 CLI 예시
+- `examples/02_aws_infra`: AWS CloudFormation 인프라 예시
+- `examples/03_fastapi_auth`: FastAPI 로그인/보호 페이지 예시
+- `examples/04_fastapi_crud`: FastAPI 메모 CRUD 예시
+- `examples/05_sql_database`: SQL 스키마, 샘플 데이터, 조회 쿼리
+- `examples/06_react_spa`: React SPA 최소 예시
+- `examples/07_portfolio`: 순수 HTML/CSS/JS 포트폴리오 예시
+- `examples/08_mini_git`: Mini Git CLI 예시
+- `examples/09_mini_redis`: Mini Redis CLI 예시
+- `examples/10_git_workflow`: Git 협업 문서 템플릿
 
 ## 읽는 방법
 
