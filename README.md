@@ -35,6 +35,7 @@
 
 ## 읽는 문서
 
+- [제출 설명서](./SUBMISSION.md)
 - [evollard 문제 연결 지도](./docs/evollard-problem-map.md)
 - [스토리 기반 로드맵](./docs/story-roadmap.md)
 - [유료 감정 리포트 샘플](./docs/paid-report-sample.md)
